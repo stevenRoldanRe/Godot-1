@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://d32nfu7m1dgp0"]
+
+[node name="Label" type="Label"]
+offset_left = 86.0
+offset_top = 66.0
+offset_right = 180.0
+offset_bottom = 89.0
+text = "hOLA CLASE"
